@@ -1,0 +1,12 @@
+D:\pet\kafka\CQRS-ES\CQRS.Core\bin\Debug\net6.0\CQRS.Core.deps.json
+D:\pet\kafka\CQRS-ES\CQRS.Core\bin\Debug\net6.0\CQRS.Core.dll
+D:\pet\kafka\CQRS-ES\CQRS.Core\bin\Debug\net6.0\CQRS.Core.pdb
+D:\pet\kafka\CQRS-ES\CQRS.Core\obj\Debug\net6.0\CQRS.Core.csproj.AssemblyReference.cache
+D:\pet\kafka\CQRS-ES\CQRS.Core\obj\Debug\net6.0\CQRS.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\pet\kafka\CQRS-ES\CQRS.Core\obj\Debug\net6.0\CQRS.Core.AssemblyInfoInputs.cache
+D:\pet\kafka\CQRS-ES\CQRS.Core\obj\Debug\net6.0\CQRS.Core.AssemblyInfo.cs
+D:\pet\kafka\CQRS-ES\CQRS.Core\obj\Debug\net6.0\CQRS.Core.csproj.CoreCompileInputs.cache
+D:\pet\kafka\CQRS-ES\CQRS.Core\obj\Debug\net6.0\CQRS.Core.dll
+D:\pet\kafka\CQRS-ES\CQRS.Core\obj\Debug\net6.0\refint\CQRS.Core.dll
+D:\pet\kafka\CQRS-ES\CQRS.Core\obj\Debug\net6.0\CQRS.Core.pdb
+D:\pet\kafka\CQRS-ES\CQRS.Core\obj\Debug\net6.0\ref\CQRS.Core.dll

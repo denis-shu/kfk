@@ -1,0 +1,15 @@
+D:\pet\kafka\SM-Post\Post.Common\Post.Common\bin\Debug\net6.0\Post.Common.deps.json
+D:\pet\kafka\SM-Post\Post.Common\Post.Common\bin\Debug\net6.0\Post.Common.dll
+D:\pet\kafka\SM-Post\Post.Common\Post.Common\bin\Debug\net6.0\Post.Common.pdb
+D:\pet\kafka\SM-Post\Post.Common\Post.Common\bin\Debug\net6.0\CQRS.Core.dll
+D:\pet\kafka\SM-Post\Post.Common\Post.Common\bin\Debug\net6.0\CQRS.Core.pdb
+D:\pet\kafka\SM-Post\Post.Common\Post.Common\obj\Debug\net6.0\Post.Common.csproj.AssemblyReference.cache
+D:\pet\kafka\SM-Post\Post.Common\Post.Common\obj\Debug\net6.0\Post.Common.GeneratedMSBuildEditorConfig.editorconfig
+D:\pet\kafka\SM-Post\Post.Common\Post.Common\obj\Debug\net6.0\Post.Common.AssemblyInfoInputs.cache
+D:\pet\kafka\SM-Post\Post.Common\Post.Common\obj\Debug\net6.0\Post.Common.AssemblyInfo.cs
+D:\pet\kafka\SM-Post\Post.Common\Post.Common\obj\Debug\net6.0\Post.Common.csproj.CoreCompileInputs.cache
+D:\pet\kafka\SM-Post\Post.Common\Post.Common\obj\Debug\net6.0\Post.Common.csproj.CopyComplete
+D:\pet\kafka\SM-Post\Post.Common\Post.Common\obj\Debug\net6.0\Post.Common.dll
+D:\pet\kafka\SM-Post\Post.Common\Post.Common\obj\Debug\net6.0\refint\Post.Common.dll
+D:\pet\kafka\SM-Post\Post.Common\Post.Common\obj\Debug\net6.0\Post.Common.pdb
+D:\pet\kafka\SM-Post\Post.Common\Post.Common\obj\Debug\net6.0\ref\Post.Common.dll
