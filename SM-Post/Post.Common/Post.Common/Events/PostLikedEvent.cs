@@ -10,7 +10,7 @@ namespace Post.Common.Events
 {
     public class PostLikedEvent: BaseEvent
     {
-        public PostLikeEvent():base(nameof(PostLikedEvent))
+        public PostLikedEvent():base(nameof(PostLikedEvent))
         {
 
         }

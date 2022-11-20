@@ -1,6 +1,10 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\.git",
+    "\\SM-Post\\Post.Cmd.Api",
+    "\\SM-Post\\SM-Post"
   ],
+  "SelectedNode": "\\.git\\config",
   "PreviewInSolutionExplorer": false
 }

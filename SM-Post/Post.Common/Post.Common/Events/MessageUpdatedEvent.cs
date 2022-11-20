@@ -10,9 +10,9 @@ using System.Threading.Tasks;
 
 namespace Post.Common.Events
 {
-    public class MessageUpdateEvent : BaseEvent
+    public class MessageUpdatedEvent : BaseEvent
     {
-        public MessageUpdateEvent() : base(nameof(MessageUpdateEvent))
+        public MessageUpdatedEvent() : base(nameof(MessageUpdatedEvent))
         { }
         public string Message { get; set; }
     }

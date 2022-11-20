@@ -1,4 +1,6 @@
-﻿using System;
+﻿using CQRS.Core.Messages;
+
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -6,7 +8,7 @@ using System.Threading.Tasks;
 
 namespace CQRS.Core.Commands
 {
-    internal class BaseCommand
+    public abstract class BaseCommand: Message
     {
     }
 }
